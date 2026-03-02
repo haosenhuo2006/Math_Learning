@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "3d9b9f795d2efd88",
+    "type": "split",
+    "children": [
+      {
+        "id": "d56935ad3fd3a9fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "875e89479fccff44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "错题本.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "错题本"
+            }
+          },
+          {
+            "id": "27618f0da8964aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "错题本.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "错题本"
+            }
+          },
+          {
+            "id": "d3587adeb5422ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "错题本_整理版.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "错题本_整理版"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "7bae2d9004d53178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff6bf2ccca63c51a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c28215b2b9ba3eba",
+    "type": "split",
+    "children": [
+      {
+        "id": "57290b94bf25fb16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f17fd6cb3c99243",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d2bb4fabc13a2008",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "becab29411f261ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e02ff1cbc0177391",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f0ecce90d13f566",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c1b218a730467d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "错题本.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "错题本 的反向链接列表"
+            }
+          },
+          {
+            "id": "fe6318a6344442b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "错题本.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "错题本 的出链列表"
+            }
+          },
+          {
+            "id": "37003f5ded187bca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "109f608785f145b3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "5b9dfc4584031d89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "错题本.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "错题本 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "d3587adeb5422ff1",
+  "lastOpenFiles": [
+    "概率论与数理统计错题本.md",
+    "线性代数错题本.md",
+    "微积分错题本.md",
+    "错题本.md",
+    "错题本_整理版.md",
+    "经验本.md"
+  ]
+}
